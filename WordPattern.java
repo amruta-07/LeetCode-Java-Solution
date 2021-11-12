@@ -1,4 +1,4 @@
-class Solution {
+class WordPattern {
     public boolean wordPattern(String pattern, String s) {
 
         String[] S = s.split("\\s");
